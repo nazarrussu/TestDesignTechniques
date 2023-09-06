@@ -1,6 +1,6 @@
 # TestDesignTechniques
 
-Завдання з курса: 
+Завдання з курсу: 
 
 Перейшовши за посиланням https://docs.google.com/spreadsheets/d/1JyZ0S2IdJTed6mU2Fj-TmXhLZ3UKmDLiQqr-577qUW0/edit#gid=0 ви побачите вимоги до системи збору пожертвувань. У вас є 4 поля, які мають бути заповнені валідними даними.
 
